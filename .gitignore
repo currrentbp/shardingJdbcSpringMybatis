@@ -1,0 +1,14 @@
+.DS_Store
+.classpath
+.project
+.settings
+target/
+out/
+template/
+image/
+*.class
+*.iml
+.idea/*
+*.patch
+*.lock
+
